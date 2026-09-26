@@ -1,0 +1,3 @@
+Food - 100
+Transport - 250
+Coffee - 50
